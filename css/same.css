@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    font-family: '微软雅黑';
+}
+
+h2 {
+    text-align: center;
+    letter-spacing: 40px;
+    transform: translateX(20px);
+}
+
+a {
+    text-decoration: none;
+}
